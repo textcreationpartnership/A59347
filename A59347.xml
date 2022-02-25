@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange news indeed: from Mitcham in Surry Of the treacherous and barbarous proceedings, of Master Robert Cranmer merchant of London; against Master Anthonie Sadler, vicar of Mitcham. How that well known minister, for prosecuting that enough known merchant, in a suite at civil law; for the vindication of the churches rights: and for presenting him into the ecclesiastical court; for the vindication of the churches discipline: hath been (of late) defamed, imprisoned, and complotted to be ruined, by him and his party. As, is very briefly, but very truly related, in this letter and petition, to the Lord Bishop of Winton.</title>
+            <author>Sadler, Anthony, b. 1610.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59347</idno>
+            <idno type="STC">Wing S272</idno>
+            <idno type="STC">ESTC R219847</idno>
+            <idno type="EEBO-CITATION">99831294</idno>
+            <idno type="PROQUEST">99831294</idno>
+            <idno type="VID">35757</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35757)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange news indeed: from Mitcham in Surry Of the treacherous and barbarous proceedings, of Master Robert Cranmer merchant of London; against Master Anthonie Sadler, vicar of Mitcham. How that well known minister, for prosecuting that enough known merchant, in a suite at civil law; for the vindication of the churches rights: and for presenting him into the ecclesiastical court; for the vindication of the churches discipline: hath been (of late) defamed, imprisoned, and complotted to be ruined, by him and his party. As, is very briefly, but very truly related, in this letter and petition, to the Lord Bishop of Winton.</title>
+                  <author>Sadler, Anthony, b. 1610.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the authour,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, both signed: Anthonie Sadler.</note>
+                  <note>Caption title on p. 3 reads: News with a witness.</note>
+                  <note>Caption title on p. 6 reads: To the right reverend father in God, George, Lord Bishop of Winchester. The humble petition of Anthonie Sadler; the author of Inquisitio Anglicana against the Triers, 1654.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sadler, Anthony, b. 1610 --  Early works to 1800.</term>
+               <term>Cranmer, Robert --  Early works to 1800.</term>
+               <term>Mitcham (Surrey) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35757:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <pb facs="tcp:35757:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <pb facs="tcp:35757:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 20 -->
+            <p>STRANGE News indeed: FROM <hi>MITCHAM</hi> in <hi>SURRY.</hi>
+            </p>
+            <p>Of the Treacherous and Barbarous Proceedings, of Maſter <hi>Robert Cranmer</hi> Mer<g ref="char:EOLhyphen"/>chant of <hi>London;</hi> againſt Maſter <hi>Anthonie Sadler,</hi> VICAR of <hi>MITCHAM.</hi>
+            </p>
+            <p>How that well known Miniſter, for proſecuting that enough known Merchant, in a Suite at Civil Law; for the Vindication of the Churches Rights: and for Preſenting him into the Eccleſiaſtical Court; for the Vindication of the Churches Diſcipline: Hath been (of late) Defamed, Impriſoned, and Complotted to be Ruined, by HIM and his PARTY.</p>
+            <p>AS, Is very briefly, but very truly Related, in this Letter and Petition, to the Lord Biſhop of <hi>Winton.</hi>
+            </p>
+            <q>
+               <l>— Oppreſſion makes Men Mad; at leaſt ſo Bold;</l>
+               <l>To Cry for Justice; — when their Tale is Told.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Authour, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35757:3"/>
+            <!-- PDF PAGE 21 -->
+            <pb n="3" facs="tcp:35757:3"/>
+            <!-- PDF PAGE 21 -->
+            <head>News with a Witneſs.</head>
+            <p>That the World may know, how (no leſſe Unchri<g ref="char:EOLhyphen"/>ſtianly, then Undeſervedly) the <hi>Vicar</hi> of <hi>Mitcham</hi> in <hi>Surry</hi> (Maſter <hi>Sadler)</hi> hath been Conſulted upon, and Conſpired againſt; for his dutifull Am<g ref="char:EOLhyphen"/>bition to Preach up, the Regal Authority, the Epiſcopal Juriſdiction, and the Churches Diſci<g ref="char:EOLhyphen"/>pline: to Keep up, the Kingdoms Peace, the Peo<g ref="char:EOLhyphen"/>ples Good, and the Joy of All.</p>
+            <p>This following Letter, and Petition (in Order to his Appeall, unto the King) were Directed to the Lord Biſhop of <hi>Winton,</hi> Humbly to Crave, the Epiſcopal Aſſiſtance, againſt the Injurie and In<g ref="char:EOLhyphen"/>ſolence of a Contumacious Party; againſt the Rights and Diſcipline of the Church of <hi>England.</hi>
+            </p>
+            <div type="letter">
+               <opener>
+                  <salute>Right Reverend Father in God.</salute>
+               </opener>
+               <p>
+                  <note place="margin">The Letter.</note> IN Matters of the Church,
+I am bound to be Firme and Impartial in their Vindication; This hath made
+<pb n="4" facs="tcp:35757:4"/>
+                  <!-- PDF PAGE 22 -->me to Proſecute Maſter <hi>Cranmer,</hi> in a Caſe of <hi>De<g ref="char:EOLhyphen"/>lapidations</hi> and <hi>Sacriledge;</hi> and that the Churches Free-hold may be Preſerved; to Endanger my Selfe, to the utmoſt of Endamagement: The Tryal <hi>(I am ſure)</hi> will manifeſt my Innocence; and, that nothing but Duty to the Church my Mother; hath made me thus conſci<g ref="char:EOLhyphen"/>entiouſly forward, for the Oblieg'd Averment of her known Rights.</p>
+               <p>This alſo (the Church-Wardens of my Pariſh,
+wil<g ref="char:EOLhyphen"/>fully refuſing to obſerve the Arch-Deacons Directions;<note place="margin">Dr. Peirſon.</note> which, at his Viſiting of <hi>Mitcham,</hi> for the Decency of the Church, and the Order of my Pariſh, were before Doctor <hi>Harris,</hi>
+and my Self, given to One of them then preſent)<note place="margin">Edward Briſtock.</note> hath made me to Preſent the ſaid Church-Wardens, and the Things and Perſons Faulty (as by the Canon I am to do.)</p>
+               <p>Inſomuch, that upon the <hi>24th</hi> day of <hi>November</hi> laſt paſt, I went in Perſon to Witneſs my ſaid Preſentment, to be both Lawful and Expedient.</p>
+               <p>The Court Riſing, I went with Doctor <hi>Floyd,</hi> and the Regiſter to Dinner, and being but enter'd into the Houſe, (where Maſter <hi>Cranmer,</hi>
+                  <note place="margin">The ſaid Mr. Cran<g ref="char:EOLhyphen"/>mer.</note> it ſeems, and the reſt were) He ſends Three Serjeants to Arreſt me, upon an Action of Treſpaſs of <hi>Five Hundred Pound;</hi> He Arreſted alſo Master <hi>Richardſon</hi> (Your Lordſhips Register, and my Procter; as we conceive) for Preſenting him into the Ec<g ref="char:EOLhyphen"/>cleſiaſtical Court: — Surely my Lord, there is a Canon to ſave us Harmleſs from Treſpaſs, Suite, and Trouble, in the Caſe of Preſentments.</p>
+               <p>However, I am at preſent under Cuſtody, at great Charge, moſt injuriouſly debarr'd from my Family, my Study,
+<pb n="5" facs="tcp:35757:4"/>
+                  <!-- PDF PAGE 22 -->
+and the Duty of my Place; not knowing any Reaſon why, but the Malice of Maſter <hi>Cranmer.</hi>
+               </p>
+               <p>Good my Lord, I moſt Humbly Beſeech You, for God, and the Goſpel ſake, let me finde that Chriſtian Favour; that (<hi>As</hi> a Son of the Church of <hi>England,</hi> and in Your Lord<g ref="char:EOLhyphen"/>ſhips Dioceſs) Your Lordſhip would ſend for Maſter <hi>Cran<g ref="char:EOLhyphen"/>mer,</hi> and Enforce that Equity, that I may have Proceed<g ref="char:EOLhyphen"/>ings Legal, and not be thus Over-born, and Undone, by the Power, and Prejudice of a Combination.</p>
+               <closer>
+                  <signed>So Saith, — In all Duty moſt Oblieg'd — Your Lordſhips Servant, ANTHONIE SADLER.</signed>
+                  <dateline>From the Burrough-Priſon,
+<date>Novem. 25. 1664.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="6" facs="tcp:35757:5"/>
+               <!-- PDF PAGE 23 -->
+               <head>To the Right Reverend Father in GOD, <hi>GEORGE,</hi> LORD BISHOP of <hi>WINCHESTER.</hi>
+               </head>
+               <head type="sub">The Humble Petition of <hi>Anthonie Sadler;</hi> The Authour of <hi>Inquiſitio Anglicana</hi> againſt the Triers, <hi>1654.</hi>
+               </head>
+               <opener>Moſt Humbly Sheweth,</opener>
+               <p>
+                  <note place="margin">The Petiti<g ref="char:EOLhyphen"/>on.</note> THat whereas in a Juſt Vindication,
+of His Ma<g ref="char:EOLhyphen"/>jeſties Authority, in, and over, the Epiſcopal Juriſdiction; to preſerve the Churches Diſcipline, from Diſorder and Diſdain, and to preſerve the Churches Free-hold, from Dilapidations and Sacri<g ref="char:EOLhyphen"/>ledge: Your Lordſhips Petitioner hath Commenced a Suite in Law againſt, and made a Preſentment of, Maſter <hi>Robert Cranmer;</hi> as being a Perſon, very Inju<g ref="char:EOLhyphen"/>rious againſt the Churches Free-hold, and Diſobe<g ref="char:EOLhyphen"/>dient, to the Churches Diſcipline.</p>
+               <p>And whereas, the ſaid Maſter <hi>Cranmer,</hi> is (by the common out-cry of the Country, credibly devulg'd, and now by Your Lordſhips Petitioner, is credibly atteſted, to be a publique Oppreſſor, and notorious in Oppreſſion: — Becauſe, when Your Lordſhips Petitioner, had been Two Years and a Half, enforced to be in Law, with, and againſt the ſaid Maſter <hi>Cran<g ref="char:EOLhyphen"/>mer,</hi> in a Caſe of Dilapidations and Sacriledge; and had brought the ſaid Caſe, upon the point of Tryal, in the Court of Arches: —</p>
+               <p>And Secondly, becauſe when Your Lordſhips Pe<g ref="char:EOLhyphen"/>titioner Appeared in Perſon, in Your Lordſhips
+<pb n="7" facs="tcp:35757:5"/>
+                  <!-- PDF PAGE 23 -->Court, to Proſecute the Preſentment of the ſaid Ma<g ref="char:EOLhyphen"/>ſter <hi>Cranmer,</hi> for his Publique Contumancy, againſt the Act of Uniformity; Your Lordſhips Petitioner, was at the ſame time Arreſted, by the ſaid Maſter <hi>Cranmer,</hi> in an Action of Treſpaſs of <hi>Five Hundred Pound;</hi> the Proctor alſo of Your poor Petitioner (be<g ref="char:EOLhyphen"/>ing the Regiſter of the ſaid Court) the ſaid Maſter <hi>Cranmer</hi> Arreſted, in an Action of Treſpaſs, of <hi>Five Hundred Pound,</hi> — not knowing any Reaſon why, but the malice and purpoſe of the ſaid Maſter <hi>Cran<g ref="char:EOLhyphen"/>mer,</hi> to debaſe our Perſons, to diſcourage our Friends, to diſcompoſe our Minds, to ſtop the ſaid Preſent<g ref="char:EOLhyphen"/>ment, and to ſtifle the ſaid Tryal of the Caſe depend<g ref="char:EOLhyphen"/>ing.</p>
+               <p>Your Lordſhips Petitioner was forthwith caſt into Priſon, and there lay, that Day, that Night, and the Day following: — That Night Maſter <hi>Cranmer,</hi> and his Common Lawyer (Maſter <hi>Cornelius Hooker)</hi> came to Your Petitioner, in the ſaid Priſon, and they offer him Bayle, and Freedome, if he would Engage, to give up his Preſentation, to his Patron, the ſaid Ma<g ref="char:EOLhyphen"/>ſter <hi>Cranmer.</hi>
+               </p>
+               <p>Your Petitioner (for his Liberty and Healths-ſake) yielded to any thing they ſaid; inſomuch, that the ſaid Common Lawyer, cauſed your Over-griev'd, and under-min'd Petitioner, to Subſcribe and Seal a Bond of <hi>Five Hundred Pound;</hi> and alſo (to the beſt Remembrance of Your Lordſhips Petitioner) to Sub<g ref="char:EOLhyphen"/>ſcribe and Seal, a blank paper or papers; which paper or papers, the ſaid Maſter <hi>Cranmer,</hi> and his Common Lawyer, report now (to the utter undoing of Your
+<pb n="8" facs="tcp:35757:6"/>
+                  <!-- PDF PAGE 24 -->poor Petitioner, his Wife, and Children) to be a Judgement, and a Warrant to the payment of <hi>Five Hundred Pound,</hi> as if due from Your Petitioner, to the ſaid Maſter <hi>Cranmer:</hi> Your Petitioner not owing him the worth of a penny; but He owing Your Pe<g ref="char:EOLhyphen"/>titioner his Dues and Tythes, for theſe Three Years and a Half, laſt paſt.</p>
+               <p>
+                  <hi>Wherefore Your Lordſhips Petitioner, most humbly ſubmits his very Sad Condition, to the Chriſtian Conſideration, and Compaſſion of Your Right Reverend, and Well-diſ<g ref="char:EOLhyphen"/>poſed Self: Moſt Humbly Imploring, no other Fa<g ref="char:EOLhyphen"/>vour, but what becomes Your Lordſhip, in Your Peti<g ref="char:EOLhyphen"/>tioners now Appeal to the King and Council; That the ſaid Papers may be produced before that Right Honour<g ref="char:EOLhyphen"/>able Table; and in whatſoever, Your Lordſhips Peti<g ref="char:EOLhyphen"/>tioner, is a Debter or Treſpaſſer, he may be Legally Im<g ref="char:EOLhyphen"/>pleaded, and not be thus Treacherouſly Ruined by clan<g ref="char:EOLhyphen"/>deſtine Proceedings: — To the Diſhonouring of Reli<g ref="char:EOLhyphen"/>gion Oppreſſing the Subiect, Adulterating the Law, De<g ref="char:EOLhyphen"/>baſing of Church Diſcipline, and the open diſcouraging of the Subordinate Clergy, from their Dutifull Obedience, unto Juſt Authority.</hi>
+               </p>
+               <closer>
+                  <signed>So Saith,—in all Duty and Devotion, The much Cenſur'd, the more Scandall'd, and moſt Abuſed Son, of the Church of <hi>ENGLAND: Your Lordſhips — Moſt Oblieged,</hi> ANTHONIE SADLER.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35757:6"/>
+            <!-- PDF PAGE 24 -->
+         </div>
+      </body>
+   </text>
+</TEI>
